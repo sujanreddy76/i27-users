@@ -2,6 +2,6 @@
 @Library("com.i27academy.slb@main") _
 dockerPipeline(
     appName: 'user',
-    devHostPort: '5261',
-    contPort: '8261'
+    devHostPort: '5232',
+    contPort: '8232'
 )
